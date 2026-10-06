@@ -1,0 +1,6 @@
+{
+  "name": "HYDROSENSE",
+  "description": "Smart Water Tank Monitoring & Control with Arduino Mega 2560 & HC-05 Bluetooth Classic",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
